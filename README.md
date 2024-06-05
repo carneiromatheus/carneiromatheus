@@ -17,6 +17,7 @@ Meu nome é **Matheus Carneiro**, sou um desenvolvedor **Full-Stack** e estou na
 ### Como me encontrar
 
 - **Portfólio:** [matheuscarneiro.dev](https://matheuscarneiro.dev)
+- **LinkedIn:** [in/matheuscarneirodev](https://www.linkedin.com/in/matheuscarneiroferreira/)
 - **E-mail:** [contato@matheuscarneiro.dev](mailto:contato@matheuscarneiro.dev)
 - **Telefone / WhatsApp:** [(31) 99386-6415](https://wa.me/5531993866415)
 
