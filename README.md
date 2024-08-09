@@ -13,7 +13,7 @@ Sou bacharelando em Sistemas de Informações e técnico em desenvolvimento web,
 ## 💫 Experiências Voluntárias
 
 **Full-Stack Voluntário, ISFIB**  
-*07/2024 – Atual*  
+*2024 – Atual*  
 - Refatoração, componentização e criação de novas funcionalidades no site da ONG  
 - Desenvolvimento da plataforma e blog para a comunidade de estudantes intercambistas  
 
