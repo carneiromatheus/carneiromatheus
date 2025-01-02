@@ -5,7 +5,7 @@
     <img alt=welcome" style="flex: 1;" src="assets/welcome.svg" />
   </picture>
 
-  <img align="right" alt="GIF" src="https://media1.tenor.com/m/iqNUmW5ajbYAAAAd/me-apparently.gif" width="310" height="310"/>
+  <img align="right" alt="GIF" src="https://media1.tenor.com/m/iqNUmW5ajbYAAAAd/me-apparently.gif" width="40%" height="100%"/>
 </div>
 
 $~$
@@ -22,12 +22,10 @@ Aqui estão algumas coisas sobre mim:
 -   🚧 O projeto que estou trabalhando no momento: [Adzy](https://lp.adzy.com.br/)
 -   ✨ Tem algum feedback ou pergunta, sinta-se livre para entrar em contato!
 
-$~$
-
 ### 📱 Contato
 
 <span>
-  <div style="display: flex; gap: 8px;">
+  <div>
     <a href="https://www.linkedin.com/in/matheuscarneiroferreira/" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
     </a>
