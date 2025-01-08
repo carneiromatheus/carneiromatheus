@@ -4,14 +4,15 @@
     <source media="(prefers-color-scheme: light)" srcset="assets/welcome-light.svg" />
     <img alt=welcome" style="flex: 1;" src="assets/welcome.svg" />
   </picture>
-
-  <img align="right" alt="GIF" src="https://media1.tenor.com/m/iqNUmW5ajbYAAAAd/me-apparently.gif" width="40%" height="100%"/>
 </div>
 
 $~$
 
-Meu nome é **Matheus Carneiro**<br>
-mas, as pessoas costumam me chamar só pelo sobrenome, fique a vontade!
+<img align="right" alt="GIF" src="https://media1.tenor.com/m/iqNUmW5ajbYAAAAd/me-apparently.gif" width="40%" height="100%"/>
+
+Meu nome é **Matheus Carneiro** mas, as pessoas costumam me chamar só pelo sobrenome, fique a vontade!
+
+$~$
 
 Aqui estão algumas coisas sobre mim:
 
@@ -21,6 +22,8 @@ Aqui estão algumas coisas sobre mim:
 -   ❤️ Amo conversar sobre qualquer assunto.
 -   🚧 O projeto que estou trabalhando no momento: [Adzy](https://lp.adzy.com.br/)
 -   ✨ Tem algum feedback ou pergunta, sinta-se livre para entrar em contato!
+
+$~$
 
 ### 📱 Contato
 
