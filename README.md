@@ -17,9 +17,9 @@ $~$
 Aqui estão algumas coisas sobre mim:
 
 -   🎓 Curso Sistemas de Informação no IFMG.
--   💻 Trabalho com desenvolvimento web fullstack na Tekverso.
--   📚 Estou aprofundando meus conhecimentos em desenvolvimento full-cycle.
--   ❤️ Amo conversar sobre qualquer assunto.
+-   💻 Trabalho com desenvolvimento web fullstack.
+-   📚 Estou aprofundando meus conhecimentos técnicos com o curso full cycle 4.0 da Full Cycle Academy.
+-   ❤️ Gosto de trocar ideias sobre qualquer assunto.
 -   🚧 O projeto que estou trabalhando no momento: [Adzy](https://lp.adzy.com.br/)
 -   ✨ Tem algum feedback ou pergunta, sinta-se livre para entrar em contato!
 
